@@ -10,11 +10,6 @@
     "id": 1
   },
   {
-    "quote": "Strive not to be a success, but rather to be of value.",
-    "author": "Albert Einstein",
-    "id": 2
-  },
-  {
     "quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
     "author": "Robert Frost",
     "id": 3
@@ -508,5 +503,20 @@
     "quote": "If you can dream it, you can achieve it.",
     "author": "Zig Ziglar",
     "id": 101
+  },
+  {
+    "qoute": "mi primera quote",
+    "author": "Angel",
+    "id": 103
+  },
+  {
+    "qoute": "mi primera quote.1",
+    "author": "Angel",
+    "id": 103
+  },
+  {
+    "qoute": "mi primera quote.2",
+    "author": "Angel",
+    "id": 104
   }
 ]
